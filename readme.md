@@ -1,1 +1,1 @@
-toto je romanov prvy projekt
+this is my first project
