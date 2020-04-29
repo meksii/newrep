@@ -5,4 +5,5 @@ alebo aj nie
 alebo zeby ano
 
 commit cez vs
-ss
+skuska 2
+
