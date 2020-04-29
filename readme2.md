@@ -7,3 +7,4 @@ alebo zeby ano
 commit cez vs
 skuska 2
 
+pokus 3 push
