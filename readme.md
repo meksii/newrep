@@ -1,5 +1,6 @@
-this is my first project
+# This is my first project
 
 alebo aj nie
 
 alebo zeby ano
+.
